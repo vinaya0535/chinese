@@ -307,7 +307,7 @@ main form{
   }
     
     navbar{
-        width:760px;
+        width:fit-content;
 
 
     .dine{
